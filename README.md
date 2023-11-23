@@ -10,7 +10,7 @@
 	<body>
 		<div>
 			<h1>WOOOOWWWWWWWWW  ANION RA DIAY?</h1>
-			<p>This is sample 1.</p>
+			
             <!-- Hi! -->
 			<p>
 				<a href="https://www.dwsamplefiles.com/">Learn More</a>
